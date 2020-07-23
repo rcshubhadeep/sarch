@@ -7,3 +7,11 @@ def process_comamnds():
 def main():
     process_comamnds()
     print("Main called")
+
+
+def sum(a, b):
+    """
+    This is a bad function
+    """
+    return a + b
+
