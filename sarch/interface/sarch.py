@@ -19,7 +19,9 @@ def sum(a, b):
 
     and another
 
-    Wow so many docs 
+    Wow so many doc
+
+    foo bars 
     """
     return a + b
 
