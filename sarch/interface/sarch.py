@@ -24,7 +24,9 @@ def sum(a, b):
     foo bars
     looo
 
-    boo hoo 
+    boo hoo
+
+    loo hoo 
     """
     return a + b
 
