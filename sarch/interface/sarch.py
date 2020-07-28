@@ -11,6 +11,8 @@ def main():
     pola pola
 
     jola jopla
+
+    dela dela
     """
     process_comamnds()
     print("Main called")
