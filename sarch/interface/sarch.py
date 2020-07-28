@@ -5,6 +5,9 @@ def process_comamnds():
 
 
 def main():
+    """
+    Kola Kola
+    """
     process_comamnds()
     print("Main called")
 
