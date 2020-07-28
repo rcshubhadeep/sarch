@@ -9,6 +9,8 @@ def main():
     Kola Kola
 
     pola pola
+
+    jola jopla
     """
     process_comamnds()
     print("Main called")
