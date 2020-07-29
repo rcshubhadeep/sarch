@@ -13,6 +13,8 @@ def main():
     jola jopla
 
     dela dela
+    
+    lela lela
     """
     process_comamnds()
     print("Main called")
