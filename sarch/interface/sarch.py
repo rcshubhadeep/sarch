@@ -27,6 +27,8 @@ def main():
     gg
 
     mm
+
+    hh
     """
     process_comamnds()
     print("Main called")
