@@ -19,6 +19,8 @@ def main():
     dul dul
 
     pp
+
+    dd
     """
     process_comamnds()
     print("Main called")
