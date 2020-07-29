@@ -38,7 +38,7 @@ def main():
 
 def sum(a, b):
     """
-    This is a bad function
+    No relation with the code
 
     Adding another line
 
