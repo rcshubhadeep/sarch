@@ -15,6 +15,8 @@ def main():
     dela dela
     
     lela lela
+
+    dul dul
     """
     process_comamnds()
     print("Main called")
