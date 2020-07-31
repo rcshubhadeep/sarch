@@ -7,18 +7,6 @@ def process_comamnds():
 def main():
     """
     this is not the main method
-
-    dd
-
-    mm
-
-    gg
-
-    mm
-
-    hh
-
-    pp
     """
     process_comamnds()
     print("Main called")
