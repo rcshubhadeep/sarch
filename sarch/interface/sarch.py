@@ -8,8 +8,6 @@ def main():
     """
     this is not the main method
 
-    dul dul
-
     pp
 
     dd
