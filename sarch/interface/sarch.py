@@ -8,8 +8,6 @@ def main():
     """
     this is not the main method
 
-    pp
-
     dd
 
     mm
