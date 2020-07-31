@@ -7,8 +7,6 @@ def process_comamnds():
 def main():
     """
     this is not the main method
-
-    dela dela
     
     lela lela
 
