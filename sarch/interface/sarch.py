@@ -14,7 +14,7 @@ def main():
 
 def sum(a, b):
     """
-    No relation with the code
+    sums two numbers
 
     Adding another line
 
