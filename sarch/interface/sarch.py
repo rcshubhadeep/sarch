@@ -6,7 +6,7 @@ def process_comamnds():
 
 def main():
     """
-    Kola Kola
+    no argument is given
 
     pola pola
 
