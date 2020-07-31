@@ -6,7 +6,7 @@ def process_comamnds():
 
 def main():
     """
-    no argument is given
+    get more arguments here
 
     pola pola
 
