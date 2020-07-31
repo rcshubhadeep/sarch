@@ -6,7 +6,7 @@ def process_comamnds():
 
 def main():
     """
-    get more arguments here for add method
+    this is not the main method
 
     pola pola
 
