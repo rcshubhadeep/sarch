@@ -8,8 +8,6 @@ def main():
     """
     this is not the main method
 
-    jola jopla
-
     dela dela
     
     lela lela
