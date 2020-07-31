@@ -6,19 +6,7 @@ def process_comamnds():
 
 def main():
     """
-    Kola Kola
-
-    pola pola
-
-    jola jopla
-
-    dela dela
-    
-    lela lela
-
-    dul dul
-
-    pp
+    this is not the main method
     """
     process_comamnds()
     print("Main called")
@@ -26,7 +14,7 @@ def main():
 
 def sum(a, b):
     """
-    This is a bad function
+    sums two numbers
 
     Adding another line
 
