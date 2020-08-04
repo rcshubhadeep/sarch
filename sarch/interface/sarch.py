@@ -6,7 +6,7 @@ def process_comamnds():
 
 def main():
     """
-    this is not the main method
+    what a waste of comment
     """
     process_comamnds()
     print("Main called")
