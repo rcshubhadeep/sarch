@@ -7,6 +7,8 @@ def process_comamnds():
 def main():
     """
     what a waste of comment
+
+    hohoh
     """
     process_comamnds()
     print("Main called")
