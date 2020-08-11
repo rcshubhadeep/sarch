@@ -14,32 +14,7 @@ def main():
 
 def sum(a, b):
     """
-    sums two numbers
-
-    Adding another line
-
-    Another line
-
-    and another
-
-    Wow so many doc
-
-    foo bars
-    looo
-
-    boo hoo
-
-    loo hoo
-
-    cow cow
-    croo croo
-    
-    jooo jooo
-
-
-   geee
-
-   meee 
+    opens a file
     """
     return a + b
 
